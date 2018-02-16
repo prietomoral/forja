@@ -9,7 +9,7 @@ public class clazz4 {
 
     }
 
-    public void m6() {
+    public void m6() { 
 
     }
 
